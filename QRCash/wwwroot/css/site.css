@@ -1,0 +1,8 @@
+﻿.navbar-default .navbar-toggle {
+    border-color : transparent !important;
+}
+
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+        border-color: #ddd !important;
+        background-color: transparent !important;
+    }
